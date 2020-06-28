@@ -15,14 +15,6 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://github.com/BeanBeanSwift/GuaJiDistributioniOS/blob/master/GuaJi.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
 					<true/>
@@ -39,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>GuaJi App download</string>
+				<string>呱叽最新版</string>
 			</dict>
 		</dict>
 	</array>
